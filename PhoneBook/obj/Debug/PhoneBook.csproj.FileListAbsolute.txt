@@ -1,0 +1,17 @@
+C:\Users\Polina\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+C:\Users\Polina\source\repos\PhoneBook\PhoneBook\obj\Debug\MainWindow.g.cs
+C:\Users\Polina\source\repos\PhoneBook\PhoneBook\obj\Debug\App.g.cs
+C:\Users\Polina\source\repos\PhoneBook\PhoneBook\obj\Debug\MainWindow.baml
+C:\Users\Polina\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\Polina\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\Polina\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\Polina\source\repos\PhoneBook\PhoneBook\obj\Debug\ConnectToSQLServer.g.cs
+C:\Users\Polina\source\repos\PhoneBook\PhoneBook\obj\Debug\ConnectToSQLServer.baml
+C:\Users\Polina\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBookSQL.exe.config
+C:\Users\Polina\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBookSQL.exe
+C:\Users\Polina\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBookSQL.pdb
+C:\Users\Polina\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBookSQL_MarkupCompile.cache
+C:\Users\Polina\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBookSQL_MarkupCompile.lref
+C:\Users\Polina\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBookSQL.g.resources
+C:\Users\Polina\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBookSQL.exe
+C:\Users\Polina\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBookSQL.pdb
